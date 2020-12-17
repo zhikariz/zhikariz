@@ -3,7 +3,7 @@
 <p><em>Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/zhikariz?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2Fzhikariz)
 [![Linkedin: Helmi](https://img.shields.io/badge/-zhikariz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhikariz/)](https://www.linkedin.com/in/zhikariz/)
 ![GitHub followers](https://img.shields.io/github/followers/zhikariz?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=zhikariz.zhikariz)
